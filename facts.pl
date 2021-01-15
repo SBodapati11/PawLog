@@ -172,3 +172,5 @@ outdoors(poodle, 4).
 outdoors(poodle, 5).
 
 #include 'PawLog.pl'.
+
+input(small, apartment, no, no, no, yes, 1).
