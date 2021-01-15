@@ -11,21 +11,21 @@ dwelling = input ("What kind of housing do you have? (Apartment, Small House, La
 while(dwelling not in ['apartment', 'small house', 'large house']):
     dwelling = input ("Please input a valid option.\nWhat kind of housing do you have? (Apartment, Small House, Large House): ").lower()
 
-kids = input ("Do you have kids? (Y/N): ").lower()
-while(kids not in ['y', 'n']):
-    kids = input ("Please input a valid option.\nDo you have kids? (Y/N): ").lower()
+kids = input ("Do you have kids? (Yes/No): ").lower()
+while(kids not in ['yes', 'no']):
+    kids = input ("Please input a valid option.\nDo you have kids? (Yes/No): ").lower()
 
-allergies = input ("Do you have allergies? (Y/N): ").lower()
-while(allergies not in ['y', 'n']):
-    allergies = input ("Please input a valid option.\nDo you have allergies? (Y/N): ").lower()
+allergies = input ("Do you have allergies? (Yes/No): ").lower()
+while(allergies not in ['yes', 'no']):
+    allergies = input ("Please input a valid option.\nDo you have allergies? (Yes/No): ").lower()
 
-dog = input ("Have you owned a dog before? (Y/N): ").lower()
-while(dog not in ['y', 'n']):
-    dog = input ("Please input a valid option.\nHave you owned a dog before? (Y/N): ").lower()
+dog = input ("Have you owned a dog before? (Yes/No): ").lower()
+while(dog not in ['yes', 'no']):
+    dog = input ("Please input a valid option.\nHave you owned a dog before? (Yes/No): ").lower()
 
-pets = input ("Do you have any other pets? (Y/N): ").lower()
-while(pets not in ['y', 'n']):
-    pets = input ("Please input a valid option.\nDo you have any other pets? (Y/N): ").lower()
+pets = input ("Do you have any other pets? (Yes/No): ").lower()
+while(pets not in ['yes', 'no']):
+    pets = input ("Please input a valid option.\nDo you have any other pets? (Yes/No): ").lower()
 
 outdoors = input ("How do you feel about the outdoors? (1-5): ").lower()
 while(outdoors not in ['1', '2', '3', '4', '5']):
