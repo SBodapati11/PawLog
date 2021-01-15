@@ -1,4 +1,8 @@
 # PawLog
+
+## IMPORTANT
+Do NOT delete the text files generated during the program's run. Doing so could result in a possible loss of data.
+
 ## Description
 PawLog is a recommendation system that recommends a type of dog based on user preferences.
 
@@ -7,8 +11,11 @@ PawLog utilizes both Python and Prolog for this recommendation system. Python as
 
 This program is run through the terminal.
 
-## IMPORTANT
-Do NOT delete the text files generated during the program's run. Doing so could result in a possible loss of data.
+## How it Works - Linux
+1) With the terminal, put in python3 main_handler.py 
+2) Answer the questions the program asks
+3) With the terminal, put in scasp facts.pl
+4) The bottom-most results are your dog results. Enjoy!
 
 ## Contributors
 Arjun Venkat
