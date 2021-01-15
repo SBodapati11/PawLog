@@ -1,4 +1,4 @@
-# ![Logo](https://github.com/SBodapati11/PawLog/blob/main/dogg.png?raw=true) PawLog
+# PawLog
 ## Description
 PawLog is a recommendation system that recommends a type of dog based on user preferences.
 
@@ -18,3 +18,5 @@ Shanmukha Bodapati
 Soham Mukherjee
 
 Viswa Rajagoplan
+
+![Logo](https://github.com/SBodapati11/PawLog/blob/main/dogg.png?raw=true)
