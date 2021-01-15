@@ -1,5 +1,5 @@
 # PawLog
-
+![Logo](https://raw.githubusercontent.com/SBodapati11/PawLog/756a9c1616d5715f3869fe145a8adf86f4571e2c/dogg.svg?token=AHAUQX7P6BNVVGD4XLRDQCTAAHFNG)
 ## Description
 PawLog is a recommendation system that recommends a type of dog based on user preferences.
 
