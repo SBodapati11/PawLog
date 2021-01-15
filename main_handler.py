@@ -31,7 +31,7 @@ outdoors = input ("How do you feel about the outdoors? (1-5): ").lower()
 while(outdoors not in ['1', '2', '3', '4', '5']):
     outdoors = input ("Please input a valid option.\nHow do you feel about the outdoors? (1-5): ").lower()
 
-fileString = "input(" + size + ", " + place  + ", " + kids + ", " + allergies + ", " + dog + ", " + pets + ", " + outdoors + ")." + "\n"
+fileString = "input(" + size + ", " + place  + ", " + kids + ", " + allergies + ", " + pets + ", " + dog + ", " + outdoors + ")." + "\n"
 
 #Append to "facts.pl" file
 with open("facts.pl", "a") as myfile:
