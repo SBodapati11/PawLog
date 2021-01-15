@@ -1,5 +1,3 @@
-input(small, small, no, no, no, no, 2).
-
 size(chihuahua, small).
 place(chihuahua, apartment).
 place(chihuahua, small).
@@ -172,6 +170,5 @@ dogs(poodle, no).
 outdoors(poodle, 3).
 outdoors(poodle, 4).
 outdoors(poodle, 5).
-
 
 #include 'PawLog.pl'.
