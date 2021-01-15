@@ -1,3 +1,3 @@
 #include 'PawLog.pl'.
 
-?- _main([s, small house, y, y, n, n, 2]).
+?- _main([s, small house, yes, no, yes, no, 1]).
